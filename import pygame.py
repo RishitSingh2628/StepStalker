@@ -2,7 +2,7 @@ import pygame
 
 # Constants for the game
 GRID_SIZE = 50  # Cell size in pixels
-COLS, ROWS = 12, 12  # Grid dimensions
+COLS, ROWS = 15, 15  # Grid dimensions
 WIDTH, HEIGHT = COLS * GRID_SIZE, ROWS * GRID_SIZE
 WHITE = (255, 255, 255)
 RED = (255, 0, 0)
