@@ -79,8 +79,7 @@ def main():
         # Draw everything
         draw_grid(screen, player_pos, enemy_pos)
 
-        clock.tick(10)  # Limit the frame rate
-
+        
     pygame.quit()
 
 if __name__ == "__main__":
